@@ -1,7 +1,7 @@
-# 🍔 Khaduo – Restaurant Food Delivery Frontend
+# 🍔 Khadyo – Restaurant Food Delivery Frontend
 
 
-Khadueo is a modern and responsive **food delivery web application** that provides users with an elegant interface to browse restaurants, explore dishes, and place food delivery orders online.
+Khadyo is a modern and responsive **food delivery web application** that provides users with an elegant interface to browse restaurants, explore dishes, and place food delivery orders online.
 
 This project demonstrates frontend development skills using **HTML, CSS, JavaScript, Bootstrap**, and **Axios** for API communication.
 
@@ -10,7 +10,7 @@ This project demonstrates frontend development skills using **HTML, CSS, JavaScr
 ## 🧩 Project Overview
 <img width="1853" height="936" alt="Screenshot 2025-11-02 154819" src="https://github.com/user-attachments/assets/cbaee62d-cc1a-4a65-804f-c81c9e0c544a" />
 
-The **Khadueo Food Delivery** website was designed with a clean structure, smooth navigation, and optimized performance.  
+The **Khadyo Food Delivery** website was designed with a clean structure, smooth navigation, and optimized performance.  
 It focuses on **real-world workflow simulation**, using mock APIs to represent restaurant data, menu items, and orders.
 
 **Key Features**
@@ -26,7 +26,7 @@ It focuses on **real-world workflow simulation**, using mock APIs to represent r
 
 ## 🧠 API Design (Axios + MockAPI Integration)
 
-Khadueo connects to a **MockAPI** backend using **Axios** for performing CRUD operations (Create, Read, Update, Delete).  
+Khadyo connects to a **MockAPI** backend using **Axios** for performing CRUD operations (Create, Read, Update, Delete).  
 This simulates how a real backend would behave in a production environment.
 
 **Example API Base URL:**
